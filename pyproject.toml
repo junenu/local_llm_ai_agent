@@ -1,0 +1,13 @@
+[project]
+name = "local-llm-ai-agent"
+version = "0.1.0"
+description = "A local AI agent for LLMs with a focus on privacy and security."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-community>=0.3.25",
+    "langchain-core>=0.3.65",
+    "langchain-ollama>=0.3.3",
+    "langgraph>=0.4.8",
+]
+
