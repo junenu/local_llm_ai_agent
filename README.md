@@ -42,7 +42,7 @@ uv sync
 ## 使用方法
 
 ```bash
-streamlit run main.py
+uv run streamlit run main.py
 ```
 
 ブラウザで <http://localhost:8501> にアクセスしてください。
